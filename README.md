@@ -1,4 +1,4 @@
-- 👋 `#ffffff`Hi, I’m **@Thomasbamber99**
+  Hi, I’m **@Thomasbamber99**
 - 👀 I’m interested in a career change
 - 🌱 I’m currently learning **Python** & **Sql**
 - 💞️ I’m looking to collaborate on Personal development
